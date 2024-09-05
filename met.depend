@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1682692909 source:c:\users\admin\onedrive\documents\suicao\met\main.cpp
+	"Sound.h"
+	"SDL_utils.h"
+	"SDL_imagefunction.h"
+	<SDL_image.h>
+	"Tile.h"
+	"Board.h"
+	"Game.h"
+	<ctime>
+
+1681736653 source:c:\users\admin\onedrive\documents\suicao\met\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+
+1681736567 c:\users\admin\onedrive\documents\suicao\met\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1681737607 c:\users\admin\onedrive\documents\suicao\met\sdl_image.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1681738099 source:c:\users\admin\onedrive\documents\suicao\met\sdl_imagefunction.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_imagefunction.h"
+
+1681738338 c:\users\admin\onedrive\documents\suicao\met\sdl_imagefunction.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1683115571 source:c:\users\admin\onedrive\documents\suicao\met\tile.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Tile.h"
+
+1682005995 c:\users\admin\onedrive\documents\suicao\met\tile.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1683115758 source:c:\users\admin\onedrive\documents\suicao\met\board.cpp
+	"Sound.h"
+	"SDL_utils.h"
+	"Board.h"
+
+1683035076 c:\users\admin\onedrive\documents\suicao\met\board.h
+	<iostream>
+	"Sound.h"
+	"Tile.h"
+
+1683113279 c:\users\admin\onedrive\documents\suicao\met\game.h
+	"Board.h"
+
+1683115520 source:c:\users\admin\onedrive\documents\suicao\met\game.cpp
+	"Text.h"
+	<sstream>
+	"SDL_utils.h"
+	<vector>
+	"SDL_imagefunction.h"
+	"Board.h"
+	"Game.h"
+	"Sound.h"
+
+1683115520 source:c:\users\admin\onedrive\documents\suicao\met\text.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1682439867 c:\users\admin\onedrive\documents\suicao\met\text.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1682760496 c:\users\admin\onedrive\documents\suicao\met\sound.h
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1682760496 source:c:\users\admin\onedrive\documents\suicao\met\sound.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+	"Sound.h"
+
+1691668453 source:c:\users\admin\onedrive\documents\suicao\diamond\game.cpp
+	"Text.h"
+	<sstream>
+	"SDL_utils.h"
+	<vector>
+	"SDL_imagefunction.h"
+	"Board.h"
+	"Game.h"
+	"Sound.h"
+
+1682439867 c:\users\admin\onedrive\documents\suicao\diamond\text.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1681736567 c:\users\admin\onedrive\documents\suicao\diamond\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1681738338 c:\users\admin\onedrive\documents\suicao\diamond\sdl_imagefunction.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1683035076 c:\users\admin\onedrive\documents\suicao\diamond\board.h
+	<iostream>
+	"Sound.h"
+	"Tile.h"
+
+1682760496 c:\users\admin\onedrive\documents\suicao\diamond\sound.h
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1682005995 c:\users\admin\onedrive\documents\suicao\diamond\tile.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1683113279 c:\users\admin\onedrive\documents\suicao\diamond\game.h
+	"Board.h"
+
+1681738099 source:c:\users\admin\onedrive\documents\suicao\diamond\sdl_imagefunction.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_imagefunction.h"
+
+1681736653 source:c:\users\admin\onedrive\documents\suicao\diamond\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+
+1682760496 source:c:\users\admin\onedrive\documents\suicao\diamond\sound.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+	"Sound.h"
+
+1683115520 source:c:\users\admin\onedrive\documents\suicao\diamond\text.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1683115571 source:c:\users\admin\onedrive\documents\suicao\diamond\tile.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Tile.h"
+
+1689652741 source:c:\users\admin\onedrive\documents\suicao\diamond\board.cpp
+	"Sound.h"
+	"SDL_utils.h"
+	"Board.h"
+
+1683165923 source:c:\users\admin\onedrive\documents\suicao\diamond\main.cpp
+	"Sound.h"
+	"SDL_utils.h"
+	"SDL_imagefunction.h"
+	"Tile.h"
+	"Board.h"
+	"Game.h"
+	<ctime>
+
